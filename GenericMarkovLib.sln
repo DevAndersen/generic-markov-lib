@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMarkovLib", "GenericMarkovLib\GenericMarkovLib.csproj", "{38C9C695-648A-41BC-A1CD-B9DCD0E4A263}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplementationExample", "ImplementationExample\ImplementationExample.csproj", "{43ED2576-6ABA-4803-8CC5-DBEBDF965DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C9C695-648A-41BC-A1CD-B9DCD0E4A263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C9C695-648A-41BC-A1CD-B9DCD0E4A263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C9C695-648A-41BC-A1CD-B9DCD0E4A263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C9C695-648A-41BC-A1CD-B9DCD0E4A263}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43ED2576-6ABA-4803-8CC5-DBEBDF965DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43ED2576-6ABA-4803-8CC5-DBEBDF965DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43ED2576-6ABA-4803-8CC5-DBEBDF965DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43ED2576-6ABA-4803-8CC5-DBEBDF965DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5C29A34-6BF6-4BD3-8106-FC07F3DFD3EC}
+	EndGlobalSection
+EndGlobal
